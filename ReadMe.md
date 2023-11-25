@@ -8,3 +8,13 @@ What is hashCode used for?
 A hash code is an integer value that is associated with each object in Java.
 
 ### StringBuffer:- To reduce relocation of string it gives us buffer (16 chracters)
+
+### constructor is called whenever you will create a object in main method (sub class and super class both)
+### this keyword is used to refer to a current object
+### super means call the constructor of a super class if you pass parameter in super it will call constructor of a super class
+
+# Naming convetions
+## class and interface capital
+## variable and methods small letters
+
+
