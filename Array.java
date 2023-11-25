@@ -15,5 +15,14 @@ public class Array {
             }
             System.out.println();
         }
+        //enhanced version of above for loop
+        for(int n[]:nums)
+        {
+            for(int m:n)
+            {
+                System.out.print(m+" ");
+            }
+                System.out.println();
+        }
     }
 }
