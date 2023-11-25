@@ -3,3 +3,8 @@
 
 stack memory:- last in first out
 Heap memory:- 
+
+What is hashCode used for?
+A hash code is an integer value that is associated with each object in Java.
+
+### StringBuffer:- To reduce relocation of string it gives us buffer (16 chracters)
