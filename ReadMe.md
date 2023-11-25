@@ -17,4 +17,6 @@ A hash code is an integer value that is associated with each object in Java.
 ## class and interface capital
 ## variable and methods small letters
 
+![image](https://github.com/suraj480/JAVA_25_nov_practice/assets/72219318/6aca905f-3d9b-4385-80d1-da905400e8f1)
+
 
