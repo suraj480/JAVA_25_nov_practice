@@ -33,4 +33,6 @@ Threads can be used to perform complicated tasks in the background without inter
 # Collection API- it is concept
 # collection -it is interface
 # collections - it is class
+![image](https://github.com/suraj480/JAVA_25_nov_practice/assets/72219318/4623e90b-4c0f-466f-a972-a5c74171de19)
+
 
