@@ -26,3 +26,11 @@ The interface in Java is a mechanism to achieve abstraction. There can be only a
 An enum is a special "class" that represents a group of constants (unchangeable variables, like final variables).
 you can extends enum with any other class
 
+# Threads 
+Threads allows a program to operate more efficiently by doing multiple things at the same time.
+Threads can be used to perform complicated tasks in the background without interrupting the main program.
+
+# Collection API- it is concept
+# collection -it is interface
+# collections - it is class
+
