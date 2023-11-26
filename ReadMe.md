@@ -19,4 +19,10 @@ A hash code is an integer value that is associated with each object in Java.
 
 ![image](https://github.com/suraj480/JAVA_25_nov_practice/assets/72219318/6aca905f-3d9b-4385-80d1-da905400e8f1)
 
+### An interface in Java is a blueprint of a class. It has static constants and abstract methods.
+The interface in Java is a mechanism to achieve abstraction. There can be only abstract methods in the Java interface, not method body. It is used to achieve abstraction and multiple inheritance in Java.
+
+# enum
+An enum is a special "class" that represents a group of constants (unchangeable variables, like final variables).
+
 
