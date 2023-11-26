@@ -24,5 +24,5 @@ The interface in Java is a mechanism to achieve abstraction. There can be only a
 
 # enum
 An enum is a special "class" that represents a group of constants (unchangeable variables, like final variables).
-
+you can extends enum with any other class
 
