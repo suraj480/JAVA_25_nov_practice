@@ -35,4 +35,9 @@ Threads can be used to perform complicated tasks in the background without inter
 # collections - it is class
 ![image](https://github.com/suraj480/JAVA_25_nov_practice/assets/72219318/4623e90b-4c0f-466f-a972-a5c74171de19)
 
+# toString
+## it will give us value of object instead of giving is hexadecimal reference
+![image](https://github.com/suraj480/JAVA_25_nov_practice/assets/72219318/a513976e-cd34-4309-86b6-0bd48e87f9c6)
+
+
 
