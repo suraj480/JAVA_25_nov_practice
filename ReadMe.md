@@ -38,6 +38,9 @@ Threads can be used to perform complicated tasks in the background without inter
 # Java Map Interface
 A map contains values on the basis of key, i.e. key and value pair. Each key and value pair is known as an entry. A Map contains unique keys.
 A Map is useful if you have to search, update or delete elements on the basis of a key.
+# toString
+## it will give us value of object instead of giving is hexadecimal reference
+![image](https://github.com/suraj480/JAVA_25_nov_practice/assets/72219318/a513976e-cd34-4309-86b6-0bd48e87f9c6)
 
 
 
