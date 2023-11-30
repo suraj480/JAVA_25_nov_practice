@@ -18,3 +18,5 @@ TreeSet is always sorted (note if you want to compare any user-defined object th
 
 # you can use comparable to sort object
 # you can use comparator to sort object based on your category
+
+# collection can be iterated becoz it extends from Iterable 
