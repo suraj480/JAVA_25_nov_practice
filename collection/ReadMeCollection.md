@@ -14,7 +14,7 @@ is a part of Java’s collection since Java 1.2. This class is found in java.uti
 HashSet is not sorted
 
 # TreeSet
-TreeSet is always sorted (note if you want to compare any user-defined object then you need to specify category eg:- 
+TreeSet is always sorted (note if you want to compare any user-defined object then you need to specify category eg:-  )
 
-
- )
+# you can use comparable to sort object
+# you can use comparator to sort object based on your category
