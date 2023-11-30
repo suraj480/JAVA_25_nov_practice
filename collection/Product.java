@@ -1,6 +1,6 @@
 package collection;
 
-public class Product {
+public class Product implements Comparable<Product> {
     int productCode;
     String productDescription;
     double unitPrice;
@@ -92,6 +92,19 @@ public class Product {
 
     public void setCategory(String category) {
         this.category = category;
+    }
+
+    @Override
+    public int compareTo(Product o) {
+        int pc1 = this.getProductCode();
+        int pc2 = o.getProductCode();
+        if (pc1 > pc2)
+            return 1;
+        else if (pc1 < pc2)
+            return -1;
+        else
+            return 0;
+
     }
 
 }
