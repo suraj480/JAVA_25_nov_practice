@@ -4,6 +4,8 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
 import java.util.Optional;
+import java.util.stream.Collector;
+import java.util.stream.Collectors;
 
 import collection.Product;
 
@@ -48,5 +50,14 @@ public class StreamPractice2 {
         } else {
             System.out.println("No products available");
         }
+        //collect all stationary product name to a List
+        //R apply(T t)
+   List <String> productNameList=     productCatatog.stream().filter((p)->{return p.getCategory().equals("Stationary");})
+        .map((p)->{return p.getProductDescription();})//transformation
+        .collect(Collectors.toList());
+        System.out.println(productNameList);
+
+        // void accept(T t)
+        productNameList.forEach((pname)->{System.out.println(pname);});
     }
 }
