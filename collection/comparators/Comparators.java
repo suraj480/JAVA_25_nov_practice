@@ -1,4 +1,4 @@
-package collection.comparator;
+package collection.comparators;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.*;
 import collection.Product;
 
-public class Comparator {
+public class Comparators {
     public static void main(String[] args) {
         List<Product> productList = new ArrayList<Product>();
 
